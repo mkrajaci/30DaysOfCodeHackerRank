@@ -5,7 +5,7 @@
 #include <assert.h>
 #include <limits.h>
 #include <stdbool.h>
-
+// https://www.hackerrank.com/challenges/30-conditional-statements
 /*Task 
 Given an integer, N, perform the following conditional actions:
 
