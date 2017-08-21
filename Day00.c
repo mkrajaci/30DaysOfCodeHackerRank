@@ -2,6 +2,8 @@
 #include <string.h>
 #include <math.h>
 #include <stdlib.h>
+//https://www.hackerrank.com/challenges/30-hello-world
+
 int main() 
 {
     // Declare a variable named 'input_string' to hold our input.
