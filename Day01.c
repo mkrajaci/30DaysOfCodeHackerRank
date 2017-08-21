@@ -3,6 +3,7 @@
 #include <math.h>
 #include <stdlib.h>
 // https://www.hackerrank.com/challenges/30-data-types/problem
+
 int main() 
 {
     int i = 4;
