@@ -3,7 +3,7 @@
 #include <math.h>
 #include <stdlib.h>
 
-//https://www.hackerrank.com/challenges/30-operators
+// https://www.hackerrank.com/challenges/30-operators
 
 /*Input Format
 There are 3 lines of numeric input: 
