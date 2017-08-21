@@ -3,6 +3,8 @@
 #include <math.h>
 #include <stdlib.h>
 
+//https://www.hackerrank.com/challenges/30-operators
+
 /*Input Format
 There are 3 lines of numeric input: 
 The first line has a double, mealCost (the cost of the meal before tax and tip). 
